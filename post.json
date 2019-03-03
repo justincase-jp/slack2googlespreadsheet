@@ -1,0 +1,6 @@
+{
+    "type": "application/x-www-form-urlencoded",
+    "length": 387,
+    "contents": "token=eTLkfJgY8f6EZ**********&team_id=*********&team_domain=********&channel_id=********&channel_name=general&user_id=********&user_name=hiroga1030&command=%2Fsendtosheet&text=kento+he+is+great&response_url=https%3A%2F%2Fhooks.slack.com%2Fcommands%2F******",
+    "name": "postData"
+}
